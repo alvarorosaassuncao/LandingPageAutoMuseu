@@ -19,7 +19,7 @@ const CarShowcase = () => {
     },
     {
       id: 3,
-      name: "Ford Mustang 1967",
+      name: "Ford Mustang Clássico",
       category: "Clássico",
       image: "https://images.pexels.com/photos/2127733/pexels-photo-2127733.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280&fit=crop",
       description: "Lenda americana dos muscle cars"
@@ -33,17 +33,17 @@ const CarShowcase = () => {
     },
     {
       id: 5,
-      name: "Chevrolet Opala SS 1979",
+      name: "Carro Esportivo Clássico",
       category: "Clássico",
       image: "https://images.pexels.com/photos/1335077/pexels-photo-1335077.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280&fit=crop",
-      description: "O muscle car brasileiro"
+      description: "Elegância e potência dos anos dourados"
     },
     {
       id: 6,
-      name: "Porsche Taycan",
+      name: "Porsche Esportivo",
       category: "Moderno",
       image: "https://images.pexels.com/photos/3802508/pexels-photo-3802508.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280&fit=crop",
-      description: "Esportivo elétrico de alta performance"
+      description: "Performance alemã de alta tecnologia"
     }
   ];
 

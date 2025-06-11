@@ -17,7 +17,7 @@ const ContinuousCarousel = () => {
     {
       id: 3,
       image: "https://images.pexels.com/photos/2127733/pexels-photo-2127733.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      name: "Ford Mustang"
+      name: "Ford Mustang Clássico"
     },
     {
       id: 4,
@@ -27,22 +27,22 @@ const ContinuousCarousel = () => {
     {
       id: 5,
       image: "https://images.pexels.com/photos/1335077/pexels-photo-1335077.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      name: "Chevrolet Opala"
+      name: "Carro Esportivo Clássico"
     },
     {
       id: 6,
       image: "https://images.pexels.com/photos/3802508/pexels-photo-3802508.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      name: "Porsche Taycan"
+      name: "Porsche Esportivo"
     },
     {
       id: 7,
       image: "https://images.pexels.com/photos/1592384/pexels-photo-1592384.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      name: "Lamborghini"
+      name: "Lamborghini Aventador"
     },
     {
       id: 8,
       image: "https://images.pexels.com/photos/1719648/pexels-photo-1719648.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      name: "Ferrari"
+      name: "Ferrari Esportivo"
     }
   ];
 

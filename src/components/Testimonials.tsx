@@ -7,8 +7,8 @@ const Testimonials = () => {
       id: 1,
       name: "João M.",
       location: "São Paulo, SP",
-      car: "Chevrolet Opala SS 1979",
-      quote: "Meu Opala 79 nunca esteve tão bem representado aqui! A qualidade das fotos e informações técnicas é impressionante.",
+      car: "Carro Esportivo Clássico",
+      quote: "Meu carro clássico nunca esteve tão bem representado aqui! A qualidade das fotos e informações técnicas é impressionante.",
       avatar: "https://images.pexels.com/photos/1040880/pexels-photo-1040880.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop&crop=face",
       rating: 5
     },
@@ -25,7 +25,7 @@ const Testimonials = () => {
       id: 3,
       name: "Carlos Mendes",
       location: "Belo Horizonte, MG",
-      car: "Tesla Model 3",
+      car: "Tesla Model S",
       quote: "A seção de carros modernos é incrível! Consegui comparar meu Tesla com outros modelos elétricos facilmente.",
       avatar: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop&crop=face",
       rating: 5

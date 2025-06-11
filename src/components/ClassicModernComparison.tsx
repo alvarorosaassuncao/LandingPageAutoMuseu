@@ -13,22 +13,22 @@ const ClassicModernComparison = () => {
     },
     {
       id: 2,
-      name: "Ford Mustang 1967",
+      name: "Ford Mustang Clássico",
       image: "https://images.pexels.com/photos/2127733/pexels-photo-2127733.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       specs: ["V8 289ci", "Muscle car", "Design icônico", "Potência bruta"]
     },
     {
       id: 3,
-      name: "Chevrolet Opala SS",
+      name: "Carro Esportivo Clássico",
       image: "https://images.pexels.com/photos/1335077/pexels-photo-1335077.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      specs: ["Motor 4.1L", "Tração traseira", "Esportivo nacional", "Lenda brasileira"]
+      specs: ["Motor V8", "Tração traseira", "Esportivo vintage", "Lenda automotiva"]
     }
   ];
 
   const modernCars = [
     {
       id: 1,
-      name: "Tesla Model S Plaid",
+      name: "Tesla Model S",
       image: "https://images.pexels.com/photos/9254503/pexels-photo-9254503.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       specs: ["1020 HP", "0-100 em 2.1s", "Autopilot", "632km autonomia"]
     },
@@ -40,9 +40,9 @@ const ClassicModernComparison = () => {
     },
     {
       id: 3,
-      name: "Porsche Taycan",
+      name: "Porsche Esportivo",
       image: "https://images.pexels.com/photos/3802508/pexels-photo-3802508.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      specs: ["761 HP", "Carregamento 800V", "Esportivo elétrico", "Performance pura"]
+      specs: ["Alta performance", "Tecnologia avançada", "Esportivo premium", "Engenharia alemã"]
     }
   ];
 
